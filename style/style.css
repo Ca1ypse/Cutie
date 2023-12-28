@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(37, 217, 230);
+}
+
+.left-logo {
+  margin-left: 50px;
+  font-size: 40px;
+  color: #FFAACF;
+}
+
+.top-side {
+  display: flex;
+  justify-content: center;
+  font-size: 35px;
+  color: #FFE7C1;
+}
+
+.bottom-side {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  color: rgb(94, 90, 90);
+}
+
+.logo-side1 {
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
+  color: rgb(240, 17, 84);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 700px;
+  height: 500px;
+}
+
+.left-side {
+  color: #7330FA;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.ig-container {
+  font-size: 10px;
+}/*# sourceMappingURL=style.css.map */
